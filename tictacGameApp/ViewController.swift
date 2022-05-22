@@ -35,7 +35,7 @@ class ViewController: UIViewController
     
     
     //declaring some variables
-    var turnone = letTurn.cross
+    var turnone = letTurn.cross#imageLiteral(resourceName: "simulator_screenshot_1B80BC59-2C43-44D0-A5DB-5216A20F349E.png")
     var currentTurn = letTurn.cross
     
     
